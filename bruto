@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Conpatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casa do Bolsonaro</title>
+</head>
+<body>
+    <header>
+        <h1>Casa do Bolsonado</h1>
+    </header>
+
+    <div class="container">
+    <label>Selecione uma opção</label>
+    <select id="Opções">
+        <option value="X-Salada">X-Salada</option>
+        <option value="X-Burguer">X-Burguer</option>
+        <option value="X-Bacon">X-Bacon</option>
+    </select>
+    <button id="compre">COPRE AGORA</button>
+    </div>
+    
+    <footer>
+        <ul>
+            <li>Imperatriz</li>
+            <li>Localizada em Brasilia</li>
+            <li>A fila da loterica</li>
+        </ul>
+
+    </footer>
+    <script src="./js/script.js"></script>
+
+</body>
+</html>
